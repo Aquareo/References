@@ -1,2 +1,2 @@
 # References
-This is for daily study.
+This is a collection of references of my daily study.
